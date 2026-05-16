@@ -1,0 +1,10 @@
+node_modules/
+smart-summarize/node_modules/
+
+server/audio_cache/
+server/uploads/
+server/audio_files/
+
+.env
+__pycache__/
+*.pyc
