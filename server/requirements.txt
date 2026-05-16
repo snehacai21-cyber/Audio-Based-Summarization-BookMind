@@ -1,0 +1,9 @@
+flask
+flask-cors
+pdfplumber
+python-docx
+transformers
+torch
+gtts
+sentencepiece
+sacremoses
